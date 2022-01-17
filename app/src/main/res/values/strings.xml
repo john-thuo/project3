@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">project 2</string>
+    <string name="username">USERNAME</string>
+    <string name="CLASS" />
+    <string name="COURSE">COURSE</string>
+    <string name="YEAR">YEAR</string>
+    <string name="DESCRIPTION">DESCRIPTION</string>
+    <string name="textinput" />
+    <string name="password">PASSWORD</string>
+    <string name="textPassword" />
+    <string name="OK">OKAY</string>
+    <string name="CANCEL">CANCEL</string>
+</resources>
